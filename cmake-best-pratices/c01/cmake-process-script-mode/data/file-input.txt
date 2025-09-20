@@ -1,0 +1,8 @@
+CMake est un outil de développement logiciel gratuit
+et multiplateforme permettant de créer des applications
+via des instructions indépendantes du compilateur.
+Il permet également d'automatiser les tests, le packaging
+et l'installation.
+
+Il fonctionne sur diverses plateformes et prend en charge
+de nombreux langages de programmation.

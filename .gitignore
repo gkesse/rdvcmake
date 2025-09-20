@@ -1,4 +1,8 @@
 # directories
 
+/**/build/
+/**/tmp/
+
 # files
 
+/**/*output.*
